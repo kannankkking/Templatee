@@ -1,0 +1,38 @@
+
+.one{
+    display: flex;
+    position: relative;
+    left: 800px;
+    bottom: 860px;
+}
+.one div{
+    width: 200px;
+    color: black;
+
+}
+.mini{
+    display: flex;
+    position: relative;
+    left: 800px;
+    bottom: 860px;
+}
+.mini div{
+    width: 200px;
+    color: black;
+}
+.lan{
+    display: flex;
+    position: relative;
+    left: 800px;
+    bottom: 860px;
+}
+.lan div{
+    width: 200px;
+    color: black;
+}
+.certific{
+    display: flex;
+    position: relative;
+    left: 800px;
+    bottom: 860px;
+}
